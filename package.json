@@ -1,0 +1,21 @@
+{
+  "name": "teste_integracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "node --watch teste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMassayoshi/teste_integracao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/RafaelMassayoshi/teste_integracao/issues"
+  },
+  "homepage": "https://github.com/RafaelMassayoshi/teste_integracao#readme"
+}
